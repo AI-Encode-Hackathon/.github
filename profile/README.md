@@ -12,11 +12,11 @@ It allows users with little knowledge of machine learning to easily create a sta
 
 ## Instructions
 
-Clone Final_Hackathon_Prototype
+Clone Final_Hackathon_Prototype repo
 
 **Backend folder** 
 
-run this command "uvicorn main:app --reload --host 0.0.0.0 --port 8001"
+Run this command "uvicorn main:app --reload --host 0.0.0.0 --port 8001"
 
 **Frontend folder**
 

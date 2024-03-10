@@ -12,6 +12,8 @@ It allows users with little knowledge of machine learning to easily create a sta
 
 ## Instructions
 
+Clone Final_Hackathon_Prototype
+
 **Backend folder** 
 
 run this command "uvicorn main:app --reload --host 0.0.0.0 --port 8001"

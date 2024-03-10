@@ -14,8 +14,6 @@ It allows users with little knowledge of machine learning to easily create a sta
 
 **Backend** 
 
-clone model_trainer repo 
-
 run this command "uvicorn main:app --reload --host 0.0.0.0 --port 8001"
 
 **Frontend**
